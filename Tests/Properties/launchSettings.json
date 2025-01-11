@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Tests": {
+      "commandName": "Project",
+      "hotReloadEnabled": false,
+      "remoteDebugEnabled": true
+    }
+  }
+}
